@@ -2,8 +2,13 @@ body  {
 background-color: hotpink;
 }
 h1{
-    color:aliceblue
+    color:aliceblue;
+    font-style: italic;
+    
 }
-h2{
-    color: aliceblue;
-}
+    h2{
+        color:aliceblue;
+        font-style: italic;
+        
+    
+    }
